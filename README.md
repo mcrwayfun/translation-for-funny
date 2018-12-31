@@ -9,7 +9,7 @@
 
 工欲善其事必先利其器，我使用的协同工具如下：
 
-- 使用英文字典而不是中文的（中译英和英译英差别真的挺大的，主要是在思维上），比如[剑桥英文字典](https://dictionary.cambridge.org/)，也可以安装一个 Chrome 插件 [Google Dictionary](https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja) 。
+- 使用英文字典而不是中文的（中译英和英译英差别真的挺大的，主要是在思维上），比如 [剑桥英文字典](https://dictionary.cambridge.org/) ，也可以安装一个 Chrome 插件 [Google Dictionary](https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja) 。
 - 翻墙工具。
 
 资料来源于常用技术的官方文档、国外的博客或者 StackOverflowError 上的问题（均会贴上原文链接）。下面是部分公司和技术大拿的博客。
@@ -17,7 +17,7 @@
 - [Facebook Engineering](https://www.facebook.com/Engineering)
 - [Google Blog](https://www.blog.google/)
 - [GitHub Blog](https://blog.github.com/category/engineering/)
-- [Coding Horror](https://blog.codinghorror.com/) StackOverflow创始人
+- [Coding Horror](https://blog.codinghorror.com/)
 - [Medium](https://medium.com/)
 
 翻译的文档标准将采取一段原文一段译文，涉及的非规范化标准会参考[中文文案排版](https://github.com/mzlogin/chinese-copywriting-guidelines)。翻译内容尽量忠于原文，不修改，不删减。
