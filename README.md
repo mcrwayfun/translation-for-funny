@@ -12,6 +12,8 @@
 - 使用英文字典而不是中文的（中译英和英译英差别真的挺大的，主要是在思维上），比如 [剑桥英文字典](https://dictionary.cambridge.org/) ，也可以直接使用 [谷歌翻译](https://translate.google.cn/)  。
 - 翻墙工具。
 
+
+
 资料来源于常用技术的官方文档、国外的博客或者 StackOverflowError 上的问题（均会贴上原文链接）。下面是部分公司和技术大拿的博客。
 
 - [Facebook Engineering](https://www.facebook.com/Engineering)
@@ -19,6 +21,8 @@
 - [GitHub Blog](https://blog.github.com/category/engineering/)
 - [Coding Horror](https://blog.codinghorror.com/)
 - [Medium](https://medium.com/)
+
+
 
 翻译的文档标准将采取一段原文一段译文，涉及的非规范化标准会参考[中文文案排版](https://github.com/mzlogin/chinese-copywriting-guidelines)。翻译内容尽量忠于原文，不修改，不删减。
 
@@ -32,19 +36,21 @@
 
 | 序号 | 标题                                                         |
 | ---- | ------------------------------------------------------------ |
-| 1    | [Core Technologies](./source/spring-core/Core Technologies Summary.md) |
+| 1    | [Core Technologies][Core Technologies] |
 
 
 
 
 ## 结构
 
-source ：目录下存放的是待翻译或者正在翻译的文档
+- source ，目录下存放的是待翻译或者正在翻译的文档
 
-translated ：目录下的存放已经翻译完成的文档
+- translated ，目录下的存放已经翻译完成的文档
 
-static ：存放静态文件（原文或图片等）
+- static ，存放静态文件（原文或图片等）
 
 ## License
 
 采用[知识共享-署名-非商业性使用-相同方式共享 4.0 国际 许可](http://creativecommons.org/licenses/by-nc-sa/4.0/)协议进行许可。
+
+[Core Technologies]: https://github.com/mcrwayfun/translation-for-funny/blob/master/source/spring-core/Core%20Technologies%20Summary.md
