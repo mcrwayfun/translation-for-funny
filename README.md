@@ -36,7 +36,8 @@
 
 | 序号 | 标题                                                         |
 | ---- | ------------------------------------------------------------ |
-| 1    | [Core Technologies][Core Technologies] |
+| 1    | [Core Technologies][001]                       |
+| 2    | [Introduction to the Spring IoC Container and Beans][002] |
 
 
 
@@ -53,4 +54,5 @@
 
 采用[知识共享-署名-非商业性使用-相同方式共享 4.0 国际 许可](http://creativecommons.org/licenses/by-nc-sa/4.0/)协议进行许可。
 
-[Core Technologies]: https://github.com/mcrwayfun/translation-for-funny/blob/master/translated/spring-core/Core%20Technologies%20Summary.md
+[001]: https://github.com/mcrwayfun/translation-for-funny/blob/master/translated/spring-core/1-Core%20Technologies%20Summary.md
+[002]: https://github.com/mcrwayfun/translation-for-funny/blob/master/translated/spring-core/2-Introduction%20to%20the%20Spring%20IoC%20Container%20and%20Beans.md
