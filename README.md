@@ -26,31 +26,22 @@
 
 翻译的文档标准将采取一段原文一段译文，涉及的非规范化标准会参考[中文文案排版](https://github.com/mzlogin/chinese-copywriting-guidelines)。翻译内容尽量忠于原文，不修改，不删减。
 
-## 正在翻译内容
-
-| 序号 | 标题                      |
-| ---- | ------------------------- |
-| 1    | [Container Overview][003] |
-
-
-
-## 已经完成翻译内容
+## 翻译内容
 
 **spring-framework-reference-version 5.1.3.RELEASE**
 
-| 序号 | 标题                                                         |
-| ---- | ------------------------------------------------------------ |
-| 1    | [Core Technologies][001]                       |
+| 序号 | 标题                                                      |
+| ---- | --------------------------------------------------------- |
+| 1    | [Core Technologies][001]                                  |
 | 2    | [Introduction to the Spring IoC Container and Beans][002] |
+| 3    | [Container Overview][003]                                 |
 
 
 
 
 ## 结构
 
-- source ，目录下存放的是待翻译或者正在翻译的文档
-
-- translated ，目录下的存放已经翻译完成的文档
+- translated ，目录下的存放翻译的文档
 
 - static ，存放静态文件（原文或图片等）
 
@@ -60,4 +51,4 @@
 
 [001]: https://github.com/mcrwayfun/translation-for-funny/blob/master/translated/spring-core/1-Core%20Technologies%20Summary.md
 [002]: https://github.com/mcrwayfun/translation-for-funny/blob/master/translated/spring-core/2-Introduction%20to%20the%20Spring%20IoC%20Container%20and%20Beans.md
-[003]: https://github.com/mcrwayfun/translation-for-funny/blob/master/source/spring-core/3-Container%20Overview.md
+[003]: https://github.com/mcrwayfun/translation-for-funny/blob/master/translated/spring-core/3-Container%20Overview.md
